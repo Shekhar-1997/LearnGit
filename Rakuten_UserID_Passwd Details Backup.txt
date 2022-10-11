@@ -1,0 +1,72 @@
+Company Name :NIS-IND SOFTWARE
+USER : SHEKHAR.S.T
+-----------------------------------------------
+group   :nichi01 (UNIX), nichi001 (Windows)
+Application type: Staging [UNIX, Windows]
+=====================================
+OAVDI-Credentilas
+SSL-LoID-s.thimmegowdasat
+passwd:Gh1Vxa2
+-------------------------------------------------
+SSL-loID Credentials-
+Username- nichi07	
+Passwd- rPYS2Q3H	
+OTP-  U2FsdGVkX1/l+6L6snJ1A3OQizmd093A8EbpgKCaerI=
+-----------------------------------------------------
+VDI ACCESS Links
+
+OLD VDI - https://cloud-vdi.rakuten-it.com
+NEW VDI - https://rakutensec.vmwareidentity.asia/
+
+[INTRA Account] 
+[Target User]
+==================================================================
+  Full name    : Thimmegowdasatenahalli Shekhar
+
+  Email address: ts-s.thimmegowdasat@rakuten-sec.co.jp 
+
+
+[OLD-VDI Workflow Account]
+
+  Username  : sts-s.thimmegowdasat
+
+  OLD VDI password: STsatenahalli12.st@str1997
+=======================================================================
+
+ Hi @Thimmegowdasatenahalli, Shekhar | SECBplease confirm you account
+=======================================================================
+Login credentials
+https://rmt11.rakuten-sec.co.jp
+https://rmt12.rakuten-sec.co.jp
+
+
+SSl-VPN -User ID :nichi07/dPeLsCEi
+LINUX Passwd  : DVCIzguD
+
+
+TO Acess all files- Passwd-650213
+=========================================================================
+BitBucket login 
+https://git.rakuten-it.com/projects/RSECSOLARIS/repos/mw/branches
+==========================================================================
+Anypoint Platform Rakuten Credentials
+Full Name: Shekhar S T
+
+Email address: ts-s.thimmegowdasat@rakuten-sec.co.jp 
+
+phone:6361308445
+
+username:shekhar1997
+
+passwd:Shek5@str
+
+-------------Swagger
+http://swagger.rakuten-sec.capital-asset-planning.com/member.html#/simulation/simulation
+
+
+ 
+select advice_cd, notdisflag from mifa21_app_setting as M
+where exist (select 
+ 
+
+ 
